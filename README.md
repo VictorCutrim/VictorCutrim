@@ -10,9 +10,6 @@ Lenguages:<br><br>
   <img alt="Japanese" height="30" width="40" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/JP.svg"/>
 ##
 </div>
-
-##
-
 <div align="center">
   <a href="https://github.com/VictorCutrim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCutrim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
